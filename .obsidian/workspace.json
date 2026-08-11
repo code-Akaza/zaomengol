@@ -179,6 +179,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c545d38ccab85075",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-conversations",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Opencode conversations"
+            }
           }
         ],
         "currentTab": 4
@@ -196,7 +206,9 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "opencode:Opencode terminal": false,
+      "opencode:Opencode conversations": false
     }
   },
   "active": "14a0fe292ceed2c6",
