@@ -181,7 +181,17 @@
             }
           },
           {
-            "id": "d8a809ce4555d33a",
+            "id": "4e333f3b0afff5bf",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-conversations",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Opencode conversations"
+            }
+          },
+          {
+            "id": "24988b0b667d66fb",
             "type": "leaf",
             "state": {
               "type": "opencode-terminal",
@@ -191,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -211,7 +221,7 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "d8a809ce4555d33a",
+  "active": "24988b0b667d66fb",
   "lastOpenFiles": [
     "武器",
     "mintty.2026-08-11_17-06-27.png",
