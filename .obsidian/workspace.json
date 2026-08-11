@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道具.md",
+                "file": "武器/至尊武器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "道具"
+              "title": "至尊武器"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "道具.md",
+                "file": "武器/至尊武器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "道具.md",
+                "file": "武器/至尊武器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "道具.md",
+                "file": "武器/至尊武器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49ae71095fc54b33",
+  "active": "14a0fe292ceed2c6",
   "lastOpenFiles": [
+    "武器",
     "mintty.2026-08-11_17-06-27.png",
-    "道具.md",
+    "武器/至尊武器.md",
     "test"
   ]
 }
