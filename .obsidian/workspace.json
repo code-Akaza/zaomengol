@@ -181,7 +181,7 @@
             }
           },
           {
-            "id": "ec505e9c7cd44965",
+            "id": "00ccba09c76937ef",
             "type": "leaf",
             "state": {
               "type": "opencode-terminal",
@@ -211,7 +211,7 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "ec505e9c7cd44965",
+  "active": "00ccba09c76937ef",
   "lastOpenFiles": [
     "武器",
     "mintty.2026-08-11_17-06-27.png",
