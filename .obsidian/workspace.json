@@ -179,19 +179,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "00ccba09c76937ef",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-terminal",
-              "state": {},
-              "icon": "terminal",
-              "title": "Opencode"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,7 +201,7 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "00ccba09c76937ef",
+  "active": "14a0fe292ceed2c6",
   "lastOpenFiles": [
     "武器",
     "mintty.2026-08-11_17-06-27.png",
