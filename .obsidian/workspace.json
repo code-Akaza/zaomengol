@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "b4700b6104364119",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b7b695daa5d4150",
+  "active": "14a0fe292ceed2c6",
   "lastOpenFiles": [
     "道具.md"
   ]
