@@ -15,7 +15,8 @@
               "state": {
                 "file": "【活动】赏花大会_需求评审_2026-11-27.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "【活动】赏花大会_需求评审_2026-11-27"
@@ -215,6 +216,7 @@
   "lastOpenFiles": [
     "【活动】赏花大会.md",
     "【活动】赏花大会_需求评审_2026-11-27.md",
+    "【活动】赏花大会 1.md",
     "角色技能伤害测试方案.md",
     "AGENTS.md",
     "1.md",
