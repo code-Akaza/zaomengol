@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b737957c256205d",
+        "id": "064628de05ffde22",
         "type": "tabs",
         "children": [
           {
-            "id": "e0290664dce5b9b0",
+            "id": "ee68a2242cef2c27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【活动】赏花大会_需求评审.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【活动】赏花大会_需求评审"
+              "title": "新标签页"
             }
           }
         ]
@@ -161,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【活动】赏花大会_需求评审.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,10 +206,10 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "e0290664dce5b9b0",
+  "active": "ee68a2242cef2c27",
   "lastOpenFiles": [
-    "【活动】赏花大会_需求评审_2026-11-27.md",
     "【活动】赏花大会_需求评审.md",
+    "【活动】赏花大会_需求评审_2026-11-27.md",
     "2026-11-27.md",
     "【活动】赏花大会.md",
     "造梦西游OL角色速览手册.md",
