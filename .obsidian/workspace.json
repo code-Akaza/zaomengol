@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "002b00e436a7aec0",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "98f7b5cc1ede60fc",
+  "active": "e0290664dce5b9b0",
   "lastOpenFiles": [
     "2026-11-27.md",
     "【活动】赏花大会.md",
